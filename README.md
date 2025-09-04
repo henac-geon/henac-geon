@@ -1,6 +1,4 @@
-# 개발자 포트폴리오
-
-## 🙋‍♂️ 소개
+## 게임 시스템 설계와 백엔드 개발에 강점을 가진 중고 신입 개발자 제갈건입니다.
 
 게임 시스템 설계와 백엔드 개발에 강점을 가진 개발자 제갈건입니다. RPG 게임 '세인트 세이버' 팀장으로 전반적인 시스템을 개발했으며, Flutter & Spring Boot 기반의 AI 추천 플랫폼 등 다양한 프로젝트를 진행했습니다. 기술과 더불어 커뮤니케이션과 감성을 중요하게 생각하며 몰입감 있는 경험을 제공하기 위해 노력합니다.
 
@@ -17,11 +15,11 @@
 
 ## 📁 경력 및 프로젝트 (Experience & Projects)
 
-### 엘릭서 스튜디오 | 인턴 (2025.01\~2025.02)
+### 1\.엘릭서 스튜디오 | 인턴 (2025.01\~2025.02)
 
   * 게임 개발 R\&D 인턴으로 근무했습니다.
 
-### 1\. ALChive (2024.09 \~ 2025.06)
+### 2\. ALChive (2024.09 \~ 2025.06)
 
 주류 AI 추천 플랫폼으로, 모바일 앱과 마이크로서비스 아키텍처 기반의 백엔드 및 AI 서버로 구성된 캡스톤 디자인 프로젝트입니다.
 
@@ -34,7 +32,7 @@
       * **GitHub**: [https://github.com/henac-geon/alchive\_front](https://www.google.com/search?q=https://github.com/henac-geon/alchive_front) (클라이언트), [https://github.com/henac-geon/alchive\_back](https://www.google.com/search?q=https://github.com/henac-geon/alchive_back) (백엔드), [https://github.com/henac-geon/alchive\_ai\_server](https://www.google.com/search?q=https://github.com/henac-geon/alchive_ai_server) (AI 서버)
       * **시연 영상**: [https://youtu.be/RnfwJ3rg4Hs](https://www.google.com/search?q=https://youtu.be/RnfwJ3rg4Hs)
 
-### 2\. Project BS: 쿠르드의 마법서점 (2025.03 \~ 2025.06)
+### 3\. Project BS: 쿠르드의 마법서점 (2025.03 \~ 2025.06)
 
 책 대여와 NPC 상호작용, 미니게임을 중심으로 한 텍스트 기반 콘솔 게임입니다.
 
@@ -48,7 +46,7 @@
       * **GitHub**: [https://github.com/henac-geon/Project-BS](https://github.com/henac-geon/Project-BS)
       * **시연 영상**: [https://youtu.be/B90QArCYViQ](https://www.google.com/search?q=https://youtu.be/B90QArCYViQ)
 
-### 3\. 세인트 세이버 (2022.08 \~ 현재)
+### 4\. 세인트 세이버 (2022.08 \~ 현재)
 
 메이플월드에서 개발한 1인 RPG 프로젝트입니다.
 
