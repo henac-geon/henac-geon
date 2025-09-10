@@ -137,40 +137,6 @@
 
 ---
 
-## 🎓 Education & Certifications
-
-<div align="center">
-
-### 🏫 Education
-**계명대학교 컴퓨터공학과** (2020~2026)  
-*GPA: 4.08/4.5*
-
-### 📜 Certifications & Awards
-![컴활2급](https://img.shields.io/badge/컴퓨터활용능력_2급-2024-blue?style=flat-square)
-
-### 🏆 Special Programs
-- 🎯 **D5 청년인재 혁신아카데미** 수료
-- 💰 **KT 그룹창조인대장학생** (2022~2025)
-- 💼 **엘릭서 스튜디오** 게임 개발 R&D 인턴 (2025.01~2025.02)
-
-</div>
-
----
-
-## 📞 Contact Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:man25816@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henac-geon)
-[![Phone](https://img.shields.io/badge/Phone-010--9747--2103-brightgreen?style=for-the-badge&logo=phone&logoColor=white)](tel:010-9747-2103)
-
-*"함께 성장하며 의미있는 서비스를 만들어가고 싶습니다!"*
-
-</div>
-
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer)
