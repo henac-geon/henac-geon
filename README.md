@@ -19,7 +19,7 @@
 - 🏆 **수상경력**: 마이크로디그리 EXPO 최우수상
 - 💼 **경력**: 엘릭서 스튜디오 게임 개발 R&D 인턴 (2025.01~2025.02)
 - 🎓 **장학**: KT 그룹창조인대장학생 (2022~2025)
-
+- **노션**: (https://buly.kr/4xY9ymZ)
 ---
 
 ## 💻 Tech Stack
@@ -134,7 +134,6 @@
 
 [![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henac-geon/saintsavior)
 [![YouTube](https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wfPhetOps5M)
-[![Notion](https://buly.kr/4xY9ymZ)]
 
 ---
 
