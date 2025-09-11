@@ -134,6 +134,7 @@
 
 [![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henac-geon/saintsavior)
 [![YouTube](https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wfPhetOps5M)
+[![Notion](https://buly.kr/4xY9ymZ)]
 
 ---
 
