@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=test&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HelloWorld&fontSize=50&fontColor=ffffff)
 
 <div align="center">
 
@@ -60,17 +60,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henac-geon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jegal_geon"/>
 </div>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henac-geon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henac-geon&layout=compact&theme=tokyonight"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henac-geon)](https://github.com/anuraghazra/github-readme-stats)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henac-geon&theme=tokyo-night)
-
-
-![BOJ Stats](https://mazassumnida.wtf/api/v2/generate_badge?boj=jegal_geon)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henac-geon&theme=tokyo-night"/>
 </div>
 
 ---
