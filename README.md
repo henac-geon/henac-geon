@@ -61,11 +61,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henac-geon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henac-geon&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henac-geon)](https://github.com/anuraghazra/github-readme-stats)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henac-geon&theme=tokyo-night)
 
 
